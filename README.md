@@ -1,6 +1,6 @@
 # Financial Calculator 
 
-This project was made as part of the freeCodeCamp "College Algebra with Python" course and takes user input to calculate financial functions based on the menu selection. The functions that can be performed include:
+This project was made as part of the freeCodeCamp "College Algebra with Python" course and takes user input to calculate financial functions based on the menu selection. These functions include:
 
 * Calculate monthly mortgage payment
 * Determine retirement investment balance
